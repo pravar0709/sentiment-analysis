@@ -1,0 +1,6 @@
+{
+  "name": "PulseLex — Social Media Sentiment & Slang Analyzer",
+  "description": "Real-time social media sentiment analyzer with sarcasm detection, emoji and symbol decoding, latent abbreviation expansion, and calibrated confidence scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
